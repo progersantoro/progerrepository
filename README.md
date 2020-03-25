@@ -1,9 +1,9 @@
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/paulo-santoro-44a88318/" target="_blank" >
     <img alt="Paulo Santoro" src="https://bit.ly/2Jh4FdS" width="200" height="200" />
   </a>
 </p>
-<p align="center">
+<p align="left">
     <a href="https://www.instagram.com/paulosantoro/" target="_blank">
         <img alt="Instagram" src="https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw" width="30" height="30">
     </a>
@@ -16,7 +16,9 @@
     
 </p>
 
-<p>Olá, seja bem vindo ao meu espaço no GitHub.</br>
+``` bash
+Olá, seja bem vindo ao meu espaço no GitHub!
+```
 Sou bacharel em Sistemas de Informação pela Universidade Paulista com mais de 10 anos de atuação em análise de sistemas e desenvolvimento de projetos visando o foco no uso da TI como prestadora de serviços para as áreas de negócios bem como gerar valor através do uso de metodologias, ferramentas, processos e frameworks que garantam o ROI. Sou certificado em ITIL V3® Foundation Certificate in IT Service Management e Scrum® Fundamentals Certified.</p>
 <p>Com uma carreira voltada para o funcional como Business Partner, atualmente expando meus conhecimentos em áreas mais técnicas utilizando linguagens como Java, Javascript, HTML, CSS e SQL. Construção e manutenção de Webservices em Microserviços com Spring-Boot e Json.</p>
 
