@@ -5,7 +5,7 @@
 </p>
 <p align="center">
     <a href="https://www.instagram.com/paulosantoro/" target="_blank">
-        <img alt="Instagram" src="https://www.flaticon.com/br/icone-gratis/instagram_2111463?term=instagram&page=1&position=5">
+        <img alt="Instagram" src="https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw">
     </a>
     <a href="https://www.facebook.com/paulo.santoro.7" target="_blank">
         <img alt="Facebook" src="https://www.flaticon.com/br/icone-gratis/facebook_1384053?term=facebook&page=1&position=2">
